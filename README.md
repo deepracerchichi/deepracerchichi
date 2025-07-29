@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @deepracerchichi
-- 👀 I’m interested in A.I. /Machine Learning, Cybersecurity and Web Dev
-- 🌱 I’m currently learning to code with various programming languages such as java, python, c++, c# as well as libraries like react
+- 👀 I’m interested in Web Development, A.I. /Machine Learning and Cybersecurity
+- 🌱 I have currently learnt to code with various programming languages such as javascript, html5, css, python, c++, c#
+- I have good grasp of libraries like react and enjy making websites/webapps with it.
 - 💞️ I’m looking to collaborate on any project concerning the interests I listed.
 - 📫 How to reach me: chinyereukpong8064@gmail.com or linkedin.com/in/chinyere-ukpong
 - 😄 Pronouns: her/she
