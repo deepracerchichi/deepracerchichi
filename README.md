@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deepracerchichi
-- 👀 I’m a Front-End Web Development, I am also an A.I. /Machine Learning and Cybersecurity enthusiast.
+- 👀 I’m a Front-End Web Developer, I am also an A.I. /Machine Learning enthusiast.
 - 🌱 I have  learnt to code with various programming languages such as javascript, html5, css, python, c++, c#
 - I have good grasp of libraries like react and enjoy making websites/webapps with it.
 - 💞️ I’m looking to collaborate on any project concerning the interests I listed.
