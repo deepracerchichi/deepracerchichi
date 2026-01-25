@@ -1,4 +1,4 @@
-- Hi, I'm Chinyere
+- Hi, I'm Chinyere U.
 - I'm a Full-Stack Web Developer with a focus on Front-End.
 - I have learnt to code with JavaScript, TypeScript, HTML5, Tailwind-CSS & CSS.
 - I build with React, React Native, Node.js, Express.js, and MongoDB (MERN stack).
