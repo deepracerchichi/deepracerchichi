@@ -1,6 +1,6 @@
 - Hi, I'm Chinyere Ukpong.
 - I completed a BSc. in software engineering from USIU-Africa in the Septemeber of 2025.
-- I'm a Full-Stack Web Developer with a focus on Front-End.
+- I'm a Front-End Web Developer with a bit off full-stack experience .
 - I have learnt to code with JavaScript, TypeScript, HTML5, Tailwind-CSS & CSS.
 - I build with React, React Native, Node.js, Express.js, and MongoDB (MERN stack).
 - I work with RESTful APIs and enjoy creating full-stack web applications.
