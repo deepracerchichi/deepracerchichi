@@ -1,5 +1,5 @@
 - Hi there, I'm Chinyere Ukpong.
-- I completed a BSc. in software engineering from USIU-Africa in the Septemeber of 2025.
+- I completed a BSc. in software engineering from USIU-Africa in Septemeber of 2025.
 - I'm a Front-End Web Developer with a bit of full-stack experience.
 - I have learnt to code with JavaScript, TypeScript, HTML5, NEXTJS  Tailwind-CSS.
 - I build with ReactJS, React Native, Node.js, Express.js, MongoDB as well as POSTGRES SQL.
