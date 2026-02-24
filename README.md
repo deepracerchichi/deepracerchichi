@@ -1,4 +1,4 @@
-- Hi there, I'm chinyere.
+- Hi there, I'm Chinyere.
 - I completed a BSc. in software engineering from USIU-Africa in Septemeber of 2025.
 - I'm a Front-End Web Developer with a bit of full-stack experience.
 - I have learnt to code with JavaScript, TypeScript, HTML5, NEXTJS  Tailwind-CSS.
